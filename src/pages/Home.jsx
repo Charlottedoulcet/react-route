@@ -1,6 +1,13 @@
+import Coder from "../components/coders/Coder"
+
 const Home = () => {
     return (
-        <div>Home page</div>
+        <>
+            <h1>Home page</h1>
+            <section>
+                <Coder/>
+            </section>
+        </>
     )
 }
 
