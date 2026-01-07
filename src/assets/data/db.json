@@ -1,29 +1,14 @@
 {
-    "patata": [
-        {
-            "id": "1",
-            "name": "Guadalupe",
-            "age": 25
-        },
-        {
-            "id": "2",
-            "name": "Jen",
-            "age": 22
-        },
-        {
-            "id": "3",
-            "name": "Manon",
-            "age": 26
-        },
-        {
-            "id": "4",
-            "name": "Leonela",
-            "age": 26
-        },
-        {
-            "id": "25e5",
-            "name": "Lorena",
-            "age": "21"
-        }
-    ]
+  "patata": [
+    {
+      "id": "4",
+      "name": "charlotte ",
+      "age": "25 "
+    },
+    {
+      "id": "25e5",
+      "name": "Lorena",
+      "age": "21"
+    }
+  ]
 }
